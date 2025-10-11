@@ -35,14 +35,6 @@
 
 ## :busts_in_silhouette: How to reach me?
 
-<a href="https://github.com/AdhamHossam" target="_blank" >
-<img width ="48px" alt="github" title="github" src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
-</a>
-
-<a href="www.linkedin.com/in/adham-hossam" target="_blank">
- <img width ="48px" alt="linkedin" title="linkedin" src="https://user-images.githubusercontent.com/102864258/165124205-fc73de90-6ffc-47e9-9179-40d1c971ae2a.svg" />
-</a>
-
-<a href="mailto:adhamhossam@example.com" target="_blank"> 
+<a href="mailto:adhamhossam910@gmail.com" target="_blank"> 
  <img width ="48px" alt="Gmail" title="Gmail" src="https://user-images.githubusercontent.com/102864258/165145459-c5ae8bba-ac20-4a52-84e7-ce6de1841cc7.svg" />
 </a>
