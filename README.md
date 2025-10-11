@@ -7,6 +7,11 @@
  <tr><td><a  href="README.md">:us: English</a></td></tr>
 </table>
 
+## About me
+<div align="center">
+<img alt="About"  width="700px" heigth="250px" src="[https://user-images.githubusercontent.com/102864258/165182494-fee9ba0b-efb9-400f-8619-f498f6d16d57.png](https://raw.githubusercontent.com/Adham-o1/Adham-o1/a5e412e2d560d8d2c934f94973102e3a9f23986e/code.png)"/> 
+</div>
+
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="C++" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /></code>
