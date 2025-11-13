@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&size=35&width=600&lines=I'm+Adham+Hossam!;I'm+an+AI+Engineer;" alt="My Name's Adham, I'm an AI Engineer"> </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&height=100&size=35&width=600&lines=I'm+Adham+Hossam!;I'm+a+full-stack+developer;" alt="My Name's Adham, I'm an AI Engineer"> </a>
 </div>
 
 <table align="right">
